@@ -1,3 +1,8 @@
+% gmmDisplay.m
+% CS682 Speech Processing
+% Written by: Professor Marie Roch
+% San Diego State University
+
 function gmmDisplay(gmm)
 % gmmDisplay(gmm)
 % Write GMM parameters to terminal in human readable format.

@@ -1,3 +1,8 @@
+% plotGMM.m
+% CS682 Speech Processing
+% Written by: Professor Marie Roch
+% San Diego State University
+
 function plotGMM(model, features)
 
 % Find bounding box around data

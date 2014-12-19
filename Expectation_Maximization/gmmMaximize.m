@@ -1,3 +1,8 @@
+% gmmMaximize.m
+% CS682 Speech Processing
+% Written by: Professor Marie Roch
+% San Diego State University
+
 function nextmodel = gmmMaximize(model, gamma, data, diagonal)
 % new = gmmMaximize(current, gamma, data, diagonal)
 % Given a current GMM, expectation gamma, and row-oriented training data,

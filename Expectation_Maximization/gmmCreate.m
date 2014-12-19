@@ -1,3 +1,8 @@
+% gmmCreate.m
+% CS682 Speech Processing
+% Written by: Professor Marie Roch
+% San Diego State University
+
 function gmm = gmmCreate(Mixtures, TrainingData, DiagonalCovar)
 % gmm = gmmCreate(Mixtures, TrainingData, DiagonalCovar)
 % Create a Gaussian mixture model from training data.

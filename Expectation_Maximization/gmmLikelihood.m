@@ -1,3 +1,8 @@
+% gmmLikelihood.m
+% CS682 Speech Processing
+% Written by: Professor Marie Roch
+% San Diego State University
+
 function [P, PMixtures] = gmmLikelihood(gmm, RowVectors)
 % [P PMixtures] = gmmLikelihod(gmm, RowVectors)
 %

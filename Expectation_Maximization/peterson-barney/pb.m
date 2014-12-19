@@ -1,3 +1,5 @@
+% Written by: peterson-barney
+
 clear all
 close all
 
